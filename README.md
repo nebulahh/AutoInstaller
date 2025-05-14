@@ -1,6 +1,6 @@
 # Automated software installer in powerShell
 
-This script installs common software tools using Chocolatey. It checks if an app is already installed, installs it, and logs each action
+This script installs apps using Chocolatey. It checks if an app is already installed, installs it, and logs each action
 
 ## Prerequisites
 - PowerShell 5.1
