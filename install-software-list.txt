@@ -1,0 +1,5 @@
+googlechrome
+vlc
+7zip
+notepadplusplus
+visualstudiocode
